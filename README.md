@@ -39,6 +39,7 @@ El lector debe estar familiarizado con las unidades utilizadas en electrónica y
 ![ejercicios parte 13](https://user-images.githubusercontent.com/116832991/201864094-a44ab839-d8ec-43a9-82c2-97c27df82686.png)
 ![ejercicios parte 14](https://user-images.githubusercontent.com/116832991/201864127-002a32d5-f87c-41af-81e4-3a0f29992e5b.png)
 ## 4. VIDEO
+* link del video en youtube: https://youtu.be/k8taFygtiwE
 ## 5. CONCLUSIONES 
 *  Mediante la tarea propuesta se logró la comprensión  y ampliación en el conocimiento sobre el capítulo 1 con el tema "Cantidades y unidades", también el capítulo 2 con el tema "Voltaje, corriente y resistencia” los cuales servirán como base para un futuro en la materia 
 *  Tras es análisis de los capítulos 1 y 2 se logró reconocer el concepto de voltaje, corriente y resistencias los cuales son los mas importantes en todo circuito eléctrico y gracias a los ejercicios resueltos se verifico y se perfeccionaron deducir los fundamentales que son las fórmulas planteadas en el capítulo 2.
